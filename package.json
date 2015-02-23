@@ -1,12 +1,16 @@
 {
   "name": "flux-tree",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Rich TreeView React Component with element removal and drag&drop",
   "keywords": [
     "flux",
     "tree",
     "tree-view"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vpavkin/flux-tree.git"
+  },
   "author": "Vladimir Pavkin <vpavkin@gmail.com>",
   "main": "dist/FluxTree.js",
   "dependencies": {

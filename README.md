@@ -1,19 +1,19 @@
-#Flux-tree
-> Tree React Component
+# Flux-tree
+[https://github.com/vpavkin/flux-tree](https://github.com/vpavkin/flux-tree)
 
-##Usage
-###Install
+## Usage
+### Install
 ```bash
 npm install flux-tree
 ```
 ... WIP
 
-##Build
+## Build
 ```bash
 npm run build
 ```
 
-##Test
+## Test
 ```bash
 npm run test
 ```
