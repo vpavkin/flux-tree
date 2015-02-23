@@ -1,0 +1,32 @@
+{
+  "browser": true,
+  "jquery": true,
+  "node": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "indent": 2,
+  "latedef": true,
+  "maxlen": 80,
+  "newcap": true,
+  "quotmark": "single",
+  "strict": false,
+  "undef": true,
+  "unused": true,
+  "eqnull": true,
+  "maxparams": 4,
+  "maxdepth": 3,
+  "maxstatements": 10,
+  "maxcomplexity": 5,
+  "esnext": true,
+  "globals": {
+    "define": true,
+    "module": true,
+    "require": true,
+    "describe": true,
+    "beforeEach": true,
+    "afterEach": true,
+    "before": true,
+    "after": true,
+    "it": true
+  }
+}
