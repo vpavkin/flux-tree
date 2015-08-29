@@ -1,4 +1,4 @@
-# Flux-tree
+# Flux-tree (archived)
 [https://github.com/vpavkin/flux-tree](https://github.com/vpavkin/flux-tree)
 
 [![Build Status](https://travis-ci.org/vpavkin/flux-tree.svg)](https://travis-ci.org/vpavkin/flux-tree)
